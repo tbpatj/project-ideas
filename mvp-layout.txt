@@ -1,0 +1,17 @@
+Idea:
+  Create a web app that is a hub for architecs
+ MVP:
+  - Users can login and signup
+  - Create projects
+  - access quick links
+  - access quick calcs
+  - add tasks to projects
+    *modify tasks
+    *complete tasks
+    *see tasks
+  
+ Extra features:
+  -add other users to collaberatate
+  -log their hours
+  -can move and customize their quick navs for their account
+  
